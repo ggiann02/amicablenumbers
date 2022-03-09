@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.content {
+    margin: 20px auto;
+    padding: 20px;
+    display: block;
+    background-color: #C5D8A4;
+    width: 50%;
+    height: 600px;
+    color: #3d1c09;
+}
+
+.content h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.content form {
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content input {
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+}
+
+.content .message-display {
+    text-align: center;
+    font-size: 25px;
+    padding: 25px;
+}
+
+.content .factorsdisplay {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+}
+
